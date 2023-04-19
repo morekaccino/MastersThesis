@@ -1,0 +1,14 @@
+Guiying went back to old records broken in to 60-sec chunks, most of which look like 1 channel present, high rate data, some records have CFTR blocker glibenclamide
+
+The files here are from one recording of WT-CFTR in the absence and presence of 50 micromolar glibenclamide.
+
+Glibenclamide is common, goes into cytoplasmic entrance into channel pore, kinetics are totally different than those associated with channel closure; shows difference between pore and gating dynamics. Action is voltage dependent. Two different ways it can enter (polar, charged), entering one way has few msec blocking times, entering the other yields 10+ msec blocking times.
+
+References:
+
+glibenclamide-induced block of WT CFTR; macropatch and single channels
+Z.-R. Zhang, G. Cui, S. Zeltwanger, and N. A. McCarty, “Time-dependent Interactions of Glibenclamide with CFTR: Kinetically Complex Block of Macroscopic Currents,” J Membrane Biol, vol. 201, no. 3, pp. 139–155, Nov. 2004, doi: 10.1007/s00232-004-0712-9.
+Z.-R. Zhang, S. Zeltwanger, and N. A. McCarty, “Steady-State Interactions of Glibenclamide with CFTR: Evidence for Multiple Sites in the Pore,” J Membrane Biol, vol. 199, no. 1, pp. 15–28, May 2004, doi: 10.1007/s00232-004-0672-0.
+
+glibenclamide- mstructure and effect of mutations
+G. Cui, B. Song, H. W. Turki, and N. A. McCarty, “Differential contribution of TM6 and TM12 to the pore of CFTR identified by three sulfonylurea-based blockers,” Pflugers Arch - Eur J Physiol, vol. 463, no. 3, pp. 405–418, Mar. 2012, doi: 10.1007/s00424-011-1035-1.
