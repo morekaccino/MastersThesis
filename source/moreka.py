@@ -59,7 +59,7 @@ class AxonData:
             temp_df = pd.DataFrame({'time': signal.times.reshape(-1), 'signal': signal.magnitude.reshape(-1)})
             self.data[filename] = temp_df
 
-    def plot(self, key: int | str, **kwargs):
+    def plot(self, key, **kwargs):
         """
         Plot the time and signal data for the specified file.
 

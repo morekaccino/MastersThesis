@@ -1,8 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
-import pywt
-import plotly.graph_objs as go
-import plotly.express as px
 
 from source.moreka import AxonSimulator
 
